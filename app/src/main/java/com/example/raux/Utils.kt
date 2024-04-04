@@ -1,3 +1,3 @@
 package com.example.raux
 
-const val ApiKey = "AIzaSyDffFZiVo97eI0hBDBqoqgAegWXN3giNJQ"
+const val ApiKey = "YOUR_API_HERE"
